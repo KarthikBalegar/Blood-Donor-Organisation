@@ -1,2 +1,2 @@
-# Blood-Donor-Organisation
-Web Based Application
+This project is a web-based platform developed to streamline and support blood donation activities. It allows donors to register, view nearby donors and connect with blood donors those who wish to donate blood for those who need it for treatment. Built using HTML, CSS, JavaScript for the frontend, Java for backend logic and sql for database this application aims to bridge the gap between donors and recipients efficiently.
+I have provided a zip file extract all the files in that create database with name "bdo.sql" in xampp and import that file, paste that extracted folder inside xampp-htdocs and the main home page file name is MAIN1.html  
